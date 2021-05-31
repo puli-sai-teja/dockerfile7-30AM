@@ -1,0 +1,4 @@
+FROM ubuntu
+RUN echo "how r u" > /tmp/testfile
+
+
